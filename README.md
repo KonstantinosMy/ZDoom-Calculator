@@ -1,2 +1,2 @@
 # ZDoom-Calculator
-This is another school project. 3D Environment Calculator using ZDoom and ACS.
+School Project to create a 3D Environmental Calculator using ZDoom(Doom Engine port) and Automatic class selection(ACS).
